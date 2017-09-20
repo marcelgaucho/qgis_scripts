@@ -1,2 +1,2 @@
 # qgis_scripts
-Scripts do QGIS para a Caixa de Ferramentas Processar
+Scripts para a Caixa de Ferramentas Processar do software QGIS feitos por mim, Marcel.
